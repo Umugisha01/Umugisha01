@@ -1,10 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm BUMUGISHA Neema Christian</h1>
 <h3 align="center">I'm a flexible professional with a strong background in front-end development and a love for creating music. My ability to blend artistic vision with technical</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/voWVXLLYVjotzF6w6">
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwj2y8vWvoSIAxXJQvEDHcQgEwEQM3oECBcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwj2y8vWvoSIAxXJQvEDHcQgEwEQM3oECBcQAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umugisha01&label=Profile%20views&color=0e75b6&style=flat" alt="umugisha01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bumugisha neema chrustian" target="blank"><img src="https://img.shields.io/twitter/follow/bumugisha neema chrustian?logo=twitter&style=for-the-badge" alt="bumugisha neema chrustian" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bumugisha neema christian" target="blank"><img src="https://img.shields.io/twitter/follow/bumugisha neema christian?logo=twitter&style=for-the-badge" alt="bumugisha neema christian" /></a> </p>
 
 - 🔭 I’m currently working on **Evan**
 
@@ -16,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bumugisha neema chrustian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bumugisha neema chrustian" height="30" width="40" /></a>
+<a href="https://twitter.com/bumugisha neema christian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bumugisha neema christian" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bumugisha neema christian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bumugisha neema christian" height="30" width="40" /></a>
 <a href="https://fb.com/bumugisha neema christian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bumugisha neema christian" height="30" width="40" /></a>
 </p>
